@@ -1,5 +1,7 @@
 📘 ARC Network Soulbound Token (SBT) Minting System
 
+TESTNET BLOCKCHAIN USED
+
 🎖️ Overview
 This repository contains a fully implemented Soulbound Token (SBT) system deployed on the ARC Network Testnet.
 The project includes:
